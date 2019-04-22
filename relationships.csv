@@ -1,0 +1,1131 @@
+,character1,character2,type
+0,aegon targaryen,gregor clegane,killedby
+1,aegon targaryen,rhaenys targaryen,brother_of
+2,aegon targaryen,jon snow,brother_of
+3,elia martell,aegon targaryen,mother_of
+4,rhaegar targaryen,aegon targaryen,father_of
+5,aeron greyjoy,balon greyjoy,brother_of
+6,aeron greyjoy,euron greyjoy,brother_of
+7,aerys ii targaryen,rhaella targaryen,husband_of
+8,aerys ii targaryen,jaime lannister,killedby
+9,aerys ii targaryen,rhaella targaryen,brother_of
+10,aerys ii targaryen,daenerys targaryen,father_of
+11,aerys ii targaryen,rhaegar targaryen,father_of
+12,aerys ii targaryen,viserys targaryen,father_of
+13,brandon stark,aerys ii targaryen,killedby
+14,rickard stark,aerys ii targaryen,killedby
+15,aerys ii targaryen,arthur dayne,servedby
+16,aerys ii targaryen,jaime lannister,servedby
+17,akho,daario naharis,killedby
+18,alliser thorne,jon snow,killedby
+19,jon snow,alliser thorne,killedby
+20,alton lannister,jaime lannister,killedby
+21,harald karstark,alys karstark,father_of
+22,amory lorch,jaqen h'ghar,killedby
+23,yoren,amory lorch,killedby
+24,areo hotah,tyene sand,killedby
+25,doran martell,areo hotah,servedby
+26,arthur dayne,howland reed,killedby
+27,arthur dayne,eddard stark,killedby
+28,arya stark,robb stark,sister_of
+29,arya stark,sansa stark,sister_of
+30,arya stark,bran stark,sister_of
+31,arya stark,rickon stark,sister_of
+32,arya stark,nymeria,guardedby
+33,red keep stableboy,arya stark,killedby
+34,frey soldier #1,arya stark,killedby
+35,polliver,arya stark,killedby
+36,rorge,arya stark,killedby
+37,ghita,arya stark,killedby
+38,meryn trant,arya stark,killedby
+39,the waif,arya stark,killedby
+40,black walder rivers,arya stark,killedby
+41,lothar frey,arya stark,killedby
+42,walder frey,arya stark,killedby
+43,petyr baelish,arya stark,killedby
+44,eddard stark,arya stark,father_of
+45,catelyn stark,arya stark,mother_of
+46,samwell tarly,baby sam,father_of
+47,gilly,baby sam,mother_of
+48,balon greyjoy,euron greyjoy,killedby
+49,balon greyjoy,euron greyjoy,brother_of
+50,balon greyjoy,aeron greyjoy,brother_of
+51,balon greyjoy,yara greyjoy,father_of
+52,balon greyjoy,theon greyjoy,father_of
+53,barristan selmy,sons of the harpy,killedby
+54,daenerys targaryen,barristan selmy,servedby
+55,benjen stark,wights,killedby
+56,benjen stark,brandon stark,brother_of
+57,benjen stark,lyanna stark,brother_of
+58,benjen stark,eddard stark,brother_of
+59,rickard stark,benjen stark,father_of
+60,beric dondarrion,sandor clegane,killedby
+61,biter,sandor clegane,killedby
+62,catelyn stark,black walder rivers,killedby
+63,walder frey,black walder rivers,father_of
+64,bowen marsh,jon snow,killedby
+65,jon snow,bowen marsh,killedby
+66,brandon stark,lyanna stark,brother_of
+67,brandon stark,benjen stark,brother_of
+68,brandon stark,eddard stark,brother_of
+69,rickard stark,brandon stark,father_of
+70,bran stark,robb stark,brother_of
+71,bran stark,sansa stark,brother_of
+72,bran stark,arya stark,brother_of
+73,bran stark,rickon stark,brother_of
+74,bran stark,summer,guardedby
+75,eddard stark,bran stark,father_of
+76,catelyn stark,bran stark,mother_of
+77,soldier tom,brienne of tarth,killedby
+78,stannis baratheon,brienne of tarth,killedby
+79,bolton officer,brienne of tarth,killedby
+80,renly baratheon,brienne of tarth,servedby
+81,catelyn stark,brienne of tarth,servedby
+82,brienne of tarth,podrick payne,servedby
+83,bronn,lollys stokeworth,husband_of
+84,vardis egen,bronn,killedby
+85,matthos seaworth,bronn,killedby
+86,lead dornish guard,bronn,killedby
+87,brother ray,lem lemoncloak,killedby
+88,brynden tully,hoster tully,brother_of
+89,catelyn stark,eddard stark,wife_of
+90,catelyn stark,brandon stark,wife_of
+91,catelyn stark,lysa arryn,sister_of
+92,catelyn stark,edmure tully,sister_of
+93,catelyn stark,robb stark,mother_of
+94,catelyn stark,sansa stark,mother_of
+95,catelyn stark,rickon stark,mother_of
+96,joyeuse erenford,catelyn stark,killedby
+97,hoster tully,catelyn stark,father_of
+98,catspaw assassin,summer,killedby
+99,cersei lannister,robert baratheon,wife_of
+100,cersei lannister,jaime lannister,sister_of
+101,cersei lannister,tyrion lannister,sister_of
+102,cersei lannister,joffrey baratheon,mother_of
+103,cersei lannister,myrcella baratheon,mother_of
+104,cersei lannister,tommen baratheon,mother_of
+105,lancel lannister,cersei lannister,killedby
+106,high sparrow,cersei lannister,killedby
+107,loras tyrell,cersei lannister,killedby
+108,mace tyrell,cersei lannister,killedby
+109,margaery tyrell,cersei lannister,killedby
+110,kevan lannister,cersei lannister,killedby
+111,tyene sand,cersei lannister,killedby
+112,tywin lannister,cersei lannister,father_of
+113,craster,karl tanner,killedby
+114,mero,daario naharis,killedby
+115,prendahl na ghezn,daario naharis,killedby
+116,oznak zo pahl,daario naharis,killedby
+117,mossador,daario naharis,killedby
+118,iggo,daario naharis,killedby
+119,daenerys targaryen,daario naharis,servedby
+120,daenerys targaryen,khal drogo,wife_of
+121,daenerys targaryen,rhaegar targaryen,sister_of
+122,daenerys targaryen,viserys targaryen,sister_of
+123,daenerys targaryen,drogon,guardedby
+124,daenerys targaryen,rhaegal,guardedby
+125,daenerys targaryen,viserion,guardedby
+126,daenerys targaryen,rhaego,mother_of
+127,khal drogo,daenerys targaryen,killedby
+128,mirri maz duur,daenerys targaryen,killedby
+129,doreah,daenerys targaryen,killedby
+130,xaro xhoan daxos,daenerys targaryen,killedby
+131,khal rhalko,daenerys targaryen,killedby
+132,khal brozho,daenerys targaryen,killedby
+133,khal qorro,daenerys targaryen,killedby
+134,khal forzho,daenerys targaryen,killedby
+135,khal moro,daenerys targaryen,killedby
+136,dothraki bloodrider #1,daenerys targaryen,killedby
+137,dothraki bloodrider #2,daenerys targaryen,killedby
+138,randyll tarly,daenerys targaryen,killedby
+139,dickon tarly,daenerys targaryen,killedby
+140,rhaella targaryen,daenerys targaryen,mother_of
+141,daenerys targaryen,grey worm,servedby
+142,daenerys targaryen,jorah mormont,servedby
+143,daenerys targaryen,missandei,servedby
+144,davos seaworth,matthos seaworth,father_of
+145,stannis baratheon,davos seaworth,servedby
+146,jon snow,davos seaworth,servedby
+147,dickon tarly,samwell tarly,brother_of
+148,dickon tarly,talla tarly,brother_of
+149,randyll tarly,dickon tarly,father_of
+150,melessa tarly,dickon tarly,mother_of
+151,dongo the giant,night's watchman,killedby
+152,dontos hollard,petyr baelish,killedby
+153,doran martell,ellaria sand,killedby
+154,doran martell,elia martell,brother_of
+155,doran martell,oberyn martell,brother_of
+156,doran martell,trystane martell,father_of
+157,irri,doreah,killedby
+158,drennan,osha,killedby
+159,drogon,rhaegal,brother_of
+160,drogon,viserion,brother_of
+161,pyat pree,drogon,killedby
+162,kraznys mo nakloz,drogon,killedby
+163,zalla,drogon,killedby
+164,eddard stark,catelyn stark,husband_of
+165,eddard stark,howland reed,allies
+166,eddard stark,robert baratheon,allies
+167,eddard stark,ilyn payne,killedby
+168,eddard stark,brandon stark,brother_of
+169,eddard stark,benjen stark,brother_of
+170,eddard stark,lyanna stark,brother_of
+171,jon snow,eddard stark,guardedby
+172,eddard stark,jon arryn,guardedby
+173,eddard stark,robb stark,father_of
+174,eddard stark,sansa stark,father_of
+175,eddard stark,rickon stark,father_of
+176,will,eddard stark,killedby
+177,lady,eddard stark,killedby
+178,gerold hightower,eddard stark,killedby
+179,rickard stark,eddard stark,father_of
+180,edmure tully,roslin frey,husband_of
+181,edmure tully,catelyn stark,brother_of
+182,edmure tully,lysa arryn,brother_of
+183,ellaria sand,oberyn martell,wife_of
+184,ellaria sand,tyene sand,mother_of
+185,myrcella baratheon,ellaria sand,killedby
+186,elia martell,rhaegar targaryen,wife_of
+187,elia martell,gregor clegane,killedby
+188,elia martell,doran martell,sister_of
+189,elia martell,oberyn martell,sister_of
+190,elia martell,rhaenys targaryen,mother_of
+191,euron greyjoy,balon greyjoy,brother_of
+192,euron greyjoy,aeron greyjoy,brother_of
+193,obara sand,euron greyjoy,killedby
+194,nymeria sand,euron greyjoy,killedby
+195,gared,white walker,killedby
+196,gatins,sandor clegane,killedby
+197,kevin eldon,gendry,killedby
+198,laurence spellman,gendry,killedby
+199,robert baratheon,gendry,father_of
+200,ghost,grey wind,brother_of
+201,ghost,lady,brother_of
+202,ghost,nymeria,brother_of
+203,ghost,summer,brother_of
+204,ghost,shaggydog,brother_of
+205,jon snow,ghost,guardedby
+206,rast,ghost,killedby
+207,gilly,samwell tarly,wife_of
+208,craster,gilly,father_of
+209,grand maester pycelle,little birds,killedby
+210,great master #1,rebel slaves,killedby
+211,great master #1,viserion,killedby
+212,great master #1,rhaegal,killedby
+213,greatjon umber,smalljon umber,father_of
+214,rhaenys targaryen,gregor clegane,killedby
+215,hugh of the vale,gregor clegane,killedby
+216,oberyn martell,gregor clegane,killedby
+217,king's landing boaster,gregor clegane,killedby
+218,faith militant,gregor clegane,killedby
+219,tywin lannister,gregor clegane,servedby
+220,cersei lannister,gregor clegane,servedby
+221,greizhen mo ullhor,unsullied,killedby
+222,grenn,mag the mighty,killedby
+223,mag the mighty,grenn,killedby
+224,grey wind,frey crossbowmen,killedby
+225,grey wind,lady,brother_of
+226,grey wind,nymeria,brother_of
+227,grey wind,summer,brother_of
+228,grey wind,shaggydog,brother_of
+229,grey wind,ghost,brother_of
+230,robb stark,grey wind,guardedby
+231,rennick,grey wind,killedby
+232,belicho paenymion,grey worm,killedby
+233,razdal mo eraz,grey worm,killedby
+234,rickard karstark,harald karstark,father_of
+235,high septon,kings landing rioters,killedby
+236,hizdahr zo loraq,sons of the harpy,killedby
+237,hodor,wights,killedby
+238,locke,hodor,killedby
+239,howland reed,eddard stark,allies
+240,howland reed,jojen reed,father_of
+241,howland reed,meera reed,father_of
+242,jafer flowers,white walker,killedby
+243,jaime lannister,cersei lannister,brother_of
+244,jaime lannister,tyrion lannister,brother_of
+245,aerys ii targaryen,jaime lannister,guardedby
+246,robert baratheon,jaime lannister,guardedby
+247,joffrey baratheon,jaime lannister,guardedby
+248,jaime lannister,joffrey baratheon,father_of
+249,jaime lannister,myrcella baratheon,father_of
+250,jaime lannister,tommen baratheon,father_of
+251,jory cassel,jaime lannister,killedby
+252,torrhen karstark,jaime lannister,killedby
+253,olenna tyrell,jaime lannister,killedby
+254,tywin lannister,jaime lannister,father_of
+255,janos slynt,jon snow,killedby
+256,barra,janos slynt,killedby
+257,the tickler,jaqen h'ghar,killedby
+258,despondent man,jaqen h'ghar,killedby
+259,jeor mormont,rast,killedby
+260,jeor mormont,jorah mormont,father_of
+261,joffrey baratheon,sansa stark,husband_of
+262,joffrey baratheon,margaery tyrell,husband_of
+263,joffrey baratheon,petyr baelish,killedby
+264,joffrey baratheon,olenna tyrell,killedby
+265,joffrey baratheon,myrcella baratheon,brother_of
+266,joffrey baratheon,tommen baratheon,brother_of
+267,ros,joffrey baratheon,killedby
+268,robert baratheon,joffrey baratheon,father_of
+269,jojen reed,meera reed,killedby
+270,jojen reed,meera reed,brother_of
+271,jon arryn,robert baratheon,allies
+272,jon arryn,lysa arryn,killedby
+273,robert baratheon,jon arryn,guardedby
+274,jon snow,ygritte,husband_of
+275,jon snow,othell yarwyck,killedby
+276,jon snow,olly,killedby
+277,othor,jon snow,killedby
+278,qhorin halfhand,jon snow,killedby
+279,orell,jon snow,killedby
+280,karl tanner,jon snow,killedby
+281,styr,jon snow,killedby
+282,mance rayder,jon snow,killedby
+283,white walker,jon snow,killedby
+284,othell yarwyck,jon snow,killedby
+285,olly,jon snow,killedby
+286,lyanna stark,jon snow,killedby
+287,rhaegar targaryen,jon snow,father_of
+288,lyanna stark,jon snow,mother_of
+289,qotho,jorah mormont,killedby
+290,norvoshi pit fighter,jorah mormont,killedby
+291,meereenese champion,jorah mormont,killedby
+292,eddard stark,jory cassel,servedby
+293,joyeuse erenford,walder frey,wife_of
+294,karsi,pack of wights,killedby
+295,karsi,johnna,mother_of
+296,karsi,willa,mother_of
+297,kegs,wildling,killedby
+298,kevan lannister,tywin lannister,brother_of
+299,kevan lannister,lancel lannister,father_of
+300,kevan lannister,martyn lannister,father_of
+301,kevan lannister,willem lannister,father_of
+302,khal drogo,daenerys targaryen,husband_of
+303,khal drogo,rhaego,father_of
+304,viserys targaryen,khal drogo,killedby
+305,mago,khal drogo,killedby
+306,king's landing rioter #1,sandor clegane,killedby
+307,king's landing rioter #2,sandor clegane,killedby
+308,king's landing rioter #3,sandor clegane,killedby
+309,kitty frey,walder frey,wife_of
+310,kurleket,mountain clansman,killedby
+311,lady,grey wind,sister_of
+312,lady,nymeria,sister_of
+313,lady,summer,sister_of
+314,lady,shaggydog,sister_of
+315,lady,ghost,sister_of
+316,sansa stark,lady,guardedby
+317,lady crane,the waif,killedby
+318,lancel lannister,martyn lannister,brother_of
+319,lancel lannister,willem lannister,brother_of
+320,leaf,wights,killedby
+321,lem lemoncloak,sandor clegane,killedby
+322,loboda,white walker,killedby
+323,lollys stokeworth,bronn,wife_of
+324,lommy greenhands,polliver,killedby
+325,loras tyrell,margaery tyrell,brother_of
+326,mace tyrell,loras tyrell,father_of
+327,talisa maegyr,lothar frey,killedby
+328,walder frey,lothar frey,father_of
+329,lyanna stark,robert baratheon,wife_of
+330,lyanna stark,rhaegar targaryen,wife_of
+331,lyanna stark,brandon stark,sister_of
+332,lyanna stark,benjen stark,sister_of
+333,lyanna stark,eddard stark,sister_of
+334,rickard stark,lyanna stark,father_of
+335,lyanna stark,rhaegar targaryen,abductedby
+336,lysa arryn,petyr baelish,wife_of
+337,lysa arryn,petyr baelish,killedby
+338,lysa arryn,catelyn tully,sister_of
+339,lysa arryn,edmure tully,sister_of
+340,hoster tully,lysa arryn,father_of
+341,mace tyrell,margaery tyrell,father_of
+342,maester aemon,natural causes,killedby
+343,maester cressen,maester cressen,killedby
+344,maester luwin,osha,killedby
+345,mag the mighty,donnel hill,killedby
+346,mag the mighty,cooper,killedby
+347,donnel hill,mag the mighty,killedby
+348,cooper,mag the mighty,killedby
+349,mance rayder,melisandre,killedby
+350,mandon moore,podrick payne,killedby
+351,margaery tyrell,renly baratheon,wife_of
+352,margaery tyrell,joffrey baratheon,wife_of
+353,margaery tyrell,tommen baratheon,wife_of
+354,margaery tyrell,loras tyrell,sister_of
+355,martyn lannister,rickard karstark,killedby
+356,martyn lannister,lancel lannister,brother_of
+357,martyn lannister,willem lannister,brother_of
+358,white walker,meera reed,killedby
+359,melessa tarly,randyll tarly,wife_of
+360,melessa tarly,samwell tarly,mother_of
+361,melessa tarly,talla tarly,mother_of
+362,renly baratheon,melisandre,killedby
+363,axell florent,melisandre,killedby
+364,shireen baratheon,melisandre,killedby
+365,merchant captain,obara sand,killedby
+366,syrio forel,meryn trant,killedby
+367,rhaego,mirri maz duur,killedby
+368,son of the harpy,mossador,killedby
+369,mycah,sandor clegane,killedby
+370,myranda,theon greyjoy,killedby
+371,myrcella baratheon,trystane martell,wife_of
+372,myrcella baratheon,joffrey baratheon,sister_of
+373,myrcella baratheon,tommen baratheon,sister_of
+374,robert baratheon,myrcella baratheon,father_of
+375,nymeria,grey wind,sister_of
+376,nymeria,lady,sister_of
+377,nymeria,summer,sister_of
+378,nymeria,shaggydog,sister_of
+379,nymeria,ghost,sister_of
+380,oberyn martell,nymeria sand,father_of
+381,trystane martell,obara sand,killedby
+382,oberyn martell,obara sand,father_of
+383,oberyn martell,ellaria sand,husband_of
+384,oberyn martell,doran martell,brother_of
+385,oberyn martell,elia martell,brother_of
+386,oberyn martell,tyene sand,father_of
+387,olenna tyrell,mace tyrell,mother_of
+388,ygritte,olly,killedby
+389,osha,ramsay snow,killedby
+390,othor,white walker,killedby
+391,petyr baelish,lysa arryn,husband_of
+392,bolton soldier,podrick payne,killedby
+393,tyrion lannister,podrick payne,servedby
+394,pyat pree,viserion,killedby
+395,pyat pree,rhaegal,killedby
+396,spice king,pyat pree,killedby
+397,silk king,pyat pree,killedby
+398,pypar,ygritte,killedby
+399,cersei lannister,qyburn,servedby
+400,rakharo,khal jhaqo's khalasar,killedby
+401,ramsay snow,sansa stark,husband_of
+402,ramsay snow,ramsay snow's hounds,killedby
+403,master torturer,ramsay snow,killedby
+404,medger cerwyn,ramsay snow,killedby
+405,lady cerwyn,ramsay snow,killedby
+406,unidentified cerwyn,ramsay snow,killedby
+407,old woman,ramsay snow,killedby
+408,roose bolton,ramsay snow,killedby
+409,rickon stark,ramsay snow,killedby
+410,wun wun,ramsay snow,killedby
+411,roose bolton,ramsay snow,father_of
+412,randyll tarly,melessa tarly,husband_of
+413,randyll tarly,samwell tarly,father_of
+414,randyll tarly,talla tarly,father_of
+415,rattleshirt,tormund giantsbane,killedby
+416,renly baratheon,margaery tyrell,husband_of
+417,renly baratheon,robert baratheon,brother_of
+418,renly baratheon,stannis baratheon,brother_of
+419,rhaegal,drogon,brother_of
+420,rhaegal,viserion,brother_of
+421,rhaegar targaryen,elia martell,husband_of
+422,rhaegar targaryen,lyanna stark,husband_of
+423,rhaegar targaryen,robert baratheon,killedby
+424,rhaegar targaryen,daenerys targaryen,brother_of
+425,rhaegar targaryen,viserys targaryen,brother_of
+426,rhaegar targaryen,rhaenys targaryen,father_of
+427,rhaella targaryen,rhaegar targaryen,mother_of
+428,rhaella targaryen,aerys ii targaryen,wife_of
+429,rhaella targaryen,aerys ii targaryen,sister_of
+430,rhaella targaryen,viserys targaryen,mother_of
+431,jon snow,rhaenys targaryen,brother_of
+432,rickard karstark,robb stark,killedby
+433,willem lannister,rickard karstark,killedby
+434,rickon stark,robb stark,brother_of
+435,rickon stark,sansa stark,brother_of
+436,rickon stark,arya stark,brother_of
+437,rickon stark,bran stark,brother_of
+438,rickon stark,shaggydog,guardedby
+439,robb stark,roslin frey,husband_of
+440,robb stark,talisa maegyr,husband_of
+441,robb stark,roose bolton,killedby
+442,robb stark,sansa stark,brother_of
+443,robb stark,arya stark,brother_of
+444,robb stark,bran stark,brother_of
+445,robb stark,rickon stark,brother_of
+446,wallen,robb stark,killedby
+447,robert baratheon,lyanna stark,husband_of
+448,robert baratheon,cersei lannister,husband_of
+449,robert baratheon,jon arryn,allies
+450,robert baratheon,eddard stark,allies
+451,robert baratheon,tywin lannister,allies
+452,robert baratheon,boar,killedby
+453,robert baratheon,stannis baratheon,brother_of
+454,robert baratheon,renly baratheon,brother_of
+455,robert baratheon,tommen baratheon,father_of
+456,jon arryn,robin arryn,father_of
+457,lysa arryn,robin arryn,mother_of
+458,rodrik cassel,theon greyjoy,killedby
+459,eddard stark,rodrik cassel,servedby
+460,roose bolton,walda bolton,husband_of
+461,roslin frey,robb stark,wife_of
+462,roslin frey,edmure tully,wife_of
+463,walder frey,roslin frey,father_of
+464,walder frey,ryger rivers,father_of
+465,samwell tarly,gilly,husband_of
+466,samwell tarly,dickon tarly,brother_of
+467,samwell tarly,talla tarly,brother_of
+468,white walker,samwell tarly,killedby
+469,thenn warg,samwell tarly,killedby
+470,sandor clegane,gregor clegane,brother_of
+471,kings landing rioter #1,sandor clegane,killedby
+472,kings landing rioter #2,sandor clegane,killedby
+473,kings landing rioter #3,sandor clegane,killedby
+474,frey soldier #2,sandor clegane,killedby
+475,lowell,sandor clegane,killedby
+476,dying man,sandor clegane,killedby
+477,steve,sandor clegane,killedby
+478,riddell,sandor clegane,killedby
+479,morgan,sandor clegane,killedby
+480,sansa stark,joffrey baratheon,wife_of
+481,sansa stark,tyrion lannister,wife_of
+482,sansa stark,ramsay snow,wife_of
+483,sansa stark,robb stark,sister_of
+484,sansa stark,arya stark,sister_of
+485,sansa stark,bran stark,sister_of
+486,sansa stark,rickon stark,sister_of
+487,selyse baratheon,stannis baratheon,wife_of
+488,selyse baratheon,selyse baratheon,killedby
+489,selyse baratheon,shireen baratheon,mother_of
+490,septa mordane,lannister guardsman,killedby
+491,shae,tyrion lannister,killedby
+492,shaggydog,smalljon umber,killedby
+493,shaggydog,grey wind,brother_of
+494,shaggydog,lady,brother_of
+495,shaggydog,nymeria,brother_of
+496,shaggydog,summer,brother_of
+497,shaggydog,ghost,brother_of
+498,stannis baratheon,shireen baratheon,father_of
+499,smalljon umber,tormund giantsbane,killedby
+500,stannis baratheon,selyse baratheon,husband_of
+501,stannis baratheon,robert baratheon,brother_of
+502,stannis baratheon,renly baratheon,brother_of
+503,gordy,stannis baratheon,killedby
+504,simpson,stannis baratheon,killedby
+505,stiv,theon greyjoy,killedby
+506,olly's mother,styr,killedby
+507,summer,wights,killedby
+508,summer,grey wind,brother_of
+509,summer,lady,brother_of
+510,summer,nymeria,brother_of
+511,summer,shaggydog,brother_of
+512,summer,ghost,brother_of
+513,talisa maegyr,robb stark,wife_of
+514,talla tarly,dickon tarly,sister_of
+515,talla tarly,samwell tarly,sister_of
+516,three-eyed raven,the night king,killedby
+517,viserion,the night king,killedby
+518,tortured prisoner,the tickler,killedby
+519,theon greyjoy,yara greyjoy,brother_of
+520,bolton soldier,theon greyjoy,killedby
+521,harrag,theon greyjoy,killedby
+522,tommen baratheon,margaery tyrell,husband_of
+523,tommen baratheon,tommen baratheon,killedby
+524,tommen baratheon,joffrey baratheon,brother_of
+525,tommen baratheon,myrcella baratheon,brother_of
+526,trystane martell,myrcella baratheon,husband_of
+527,maester caleotte,tyene sand,killedby
+528,tyrion lannister,sansa stark,husband_of
+529,tyrion lannister,cersei lannister,brother_of
+530,tyrion lannister,jaime lannister,brother_of
+531,tywin lannister,tyrion lannister,killedby
+532,tywin lannister,tyrion lannister,father_of
+533,tywin lannister,robert baratheon,allies
+534,varly,goldcloak,killedby
+535,viserion,drogon,brother_of
+536,viserion,rhaegal,brother_of
+537,viserys targaryen,daenerys targaryen,brother_of
+538,viserys targaryen,rhaegar targaryen,brother_of
+539,walda bolton,roose bolton,wife_of
+540,walda bolton,ramsay snow's hounds,killedby
+541,walder frey,joyeuse erenford,husband_of
+542,walder frey,kitty frey,husband_of
+543,waymar royce,white walker,killedby
+544,yohn royce,waymar royce,father_of
+545,willem lannister,lancel lannister,brother_of
+546,willem lannister,martyn lannister,brother_of
+547,willis wode,mountain clansman,killedby
+548,yara greyjoy,theon greyjoy,sister_of
+549,ygritte,jon snow,wife_of
+550,old man,ygritte,killedby
+551,guymon,ygritte,killedby
+552,mole's town whore,ygritte,killedby
+553,rhaenys targaryen,aegon targaryen,sister_of
+554,jon snow,aegon targaryen,brother_of
+555,balon greyjoy,aeron greyjoy,brother_of
+556,euron greyjoy,aeron greyjoy,brother_of
+557,rhaella targaryen,aerys ii targaryen,sister_of
+558,robb stark,arya stark,brother_of
+559,sansa stark,arya stark,sister_of
+560,bran stark,arya stark,brother_of
+561,rickon stark,arya stark,brother_of
+562,euron greyjoy,balon greyjoy,brother_of
+563,aeron greyjoy,balon greyjoy,brother_of
+564,brandon stark,benjen stark,brother_of
+565,lyanna stark,benjen stark,sister_of
+566,eddard stark,benjen stark,brother_of
+567,lyanna stark,brandon stark,sister_of
+568,benjen stark,brandon stark,brother_of
+569,eddard stark,brandon stark,brother_of
+570,robb stark,bran stark,brother_of
+571,sansa stark,bran stark,sister_of
+572,arya stark,bran stark,sister_of
+573,rickon stark,bran stark,brother_of
+574,hoster tully,brynden tully,brother_of
+575,lysa arryn,catelyn stark,sister_of
+576,edmure tully,catelyn stark,brother_of
+577,jaime lannister,cersei lannister,brother_of
+578,tyrion lannister,cersei lannister,brother_of
+579,rhaegar targaryen,daenerys targaryen,brother_of
+580,viserys targaryen,daenerys targaryen,brother_of
+581,samwell tarly,dickon tarly,brother_of
+582,talla tarly,dickon tarly,sister_of
+583,elia martell,doran martell,sister_of
+584,oberyn martell,doran martell,brother_of
+585,rhaegal,drogon,brother_of
+586,viserion,drogon,brother_of
+587,brandon stark,eddard stark,brother_of
+588,benjen stark,eddard stark,brother_of
+589,lyanna stark,eddard stark,sister_of
+590,catelyn stark,edmure tully,sister_of
+591,lysa arryn,edmure tully,sister_of
+592,doran martell,elia martell,brother_of
+593,oberyn martell,elia martell,brother_of
+594,balon greyjoy,euron greyjoy,brother_of
+595,aeron greyjoy,euron greyjoy,brother_of
+596,grey wind,ghost,brother_of
+597,lady,ghost,sister_of
+598,nymeria,ghost,sister_of
+599,summer,ghost,brother_of
+600,shaggydog,ghost,brother_of
+601,lady,grey wind,sister_of
+602,nymeria,grey wind,sister_of
+603,summer,grey wind,brother_of
+604,shaggydog,grey wind,brother_of
+605,ghost,grey wind,brother_of
+606,cersei lannister,jaime lannister,sister_of
+607,tyrion lannister,jaime lannister,brother_of
+608,myrcella baratheon,joffrey baratheon,sister_of
+609,tommen baratheon,joffrey baratheon,brother_of
+610,meera reed,jojen reed,sister_of
+611,tywin lannister,kevan lannister,brother_of
+612,grey wind,lady,brother_of
+613,nymeria,lady,sister_of
+614,summer,lady,brother_of
+615,shaggydog,lady,brother_of
+616,ghost,lady,brother_of
+617,martyn lannister,lancel lannister,brother_of
+618,willem lannister,lancel lannister,brother_of
+619,margaery tyrell,loras tyrell,sister_of
+620,brandon stark,lyanna stark,brother_of
+621,benjen stark,lyanna stark,brother_of
+622,eddard stark,lyanna stark,brother_of
+623,catelyn tully,lysa arryn,sister_of
+624,edmure tully,lysa arryn,brother_of
+625,loras tyrell,margaery tyrell,brother_of
+626,lancel lannister,martyn lannister,brother_of
+627,willem lannister,martyn lannister,brother_of
+628,joffrey baratheon,myrcella baratheon,brother_of
+629,tommen baratheon,myrcella baratheon,brother_of
+630,grey wind,nymeria,brother_of
+631,lady,nymeria,sister_of
+632,summer,nymeria,brother_of
+633,shaggydog,nymeria,brother_of
+634,ghost,nymeria,brother_of
+635,doran martell,oberyn martell,brother_of
+636,elia martell,oberyn martell,sister_of
+637,robert baratheon,renly baratheon,brother_of
+638,stannis baratheon,renly baratheon,brother_of
+639,drogon,rhaegal,brother_of
+640,viserion,rhaegal,brother_of
+641,daenerys targaryen,rhaegar targaryen,sister_of
+642,viserys targaryen,rhaegar targaryen,brother_of
+643,aerys ii targaryen,rhaella targaryen,brother_of
+644,rhaenys targaryen,jon snow,sister_of
+645,robb stark,rickon stark,brother_of
+646,sansa stark,rickon stark,sister_of
+647,arya stark,rickon stark,sister_of
+648,bran stark,rickon stark,brother_of
+649,sansa stark,robb stark,sister_of
+650,arya stark,robb stark,sister_of
+651,bran stark,robb stark,brother_of
+652,rickon stark,robb stark,brother_of
+653,stannis baratheon,robert baratheon,brother_of
+654,renly baratheon,robert baratheon,brother_of
+655,dickon tarly,samwell tarly,brother_of
+656,talla tarly,samwell tarly,sister_of
+657,gregor clegane,sandor clegane,brother_of
+658,robb stark,sansa stark,brother_of
+659,arya stark,sansa stark,sister_of
+660,bran stark,sansa stark,brother_of
+661,rickon stark,sansa stark,brother_of
+662,grey wind,shaggydog,brother_of
+663,lady,shaggydog,sister_of
+664,nymeria,shaggydog,sister_of
+665,summer,shaggydog,brother_of
+666,ghost,shaggydog,brother_of
+667,robert baratheon,stannis baratheon,brother_of
+668,renly baratheon,stannis baratheon,brother_of
+669,grey wind,summer,brother_of
+670,lady,summer,sister_of
+671,nymeria,summer,sister_of
+672,shaggydog,summer,brother_of
+673,ghost,summer,brother_of
+674,dickon tarly,talla tarly,brother_of
+675,samwell tarly,talla tarly,brother_of
+676,yara greyjoy,theon greyjoy,sister_of
+677,joffrey baratheon,tommen baratheon,brother_of
+678,myrcella baratheon,tommen baratheon,sister_of
+679,cersei lannister,tyrion lannister,sister_of
+680,jaime lannister,tyrion lannister,brother_of
+681,drogon,viserion,brother_of
+682,rhaegal,viserion,brother_of
+683,daenerys targaryen,viserys targaryen,sister_of
+684,rhaegar targaryen,viserys targaryen,brother_of
+685,lancel lannister,willem lannister,brother_of
+686,martyn lannister,willem lannister,brother_of
+687,theon greyjoy,yara greyjoy,brother_of
+688,tywin lannister,martyn lannister,uncle_of
+689,martyn lannister,cersei lannister,cousinof
+690,martyn lannister,jaime lannister,cousinof
+691,martyn lannister,tyrion lannister,cousinof
+692,rhaella targaryen,viserys targaryen,aunt_of
+693,aerys ii targaryen,viserys targaryen,uncle_of
+694,viserys targaryen,daenerys targaryen,cousinof
+695,viserys targaryen,rhaegar targaryen,cousinof
+696,viserys targaryen,viserys targaryen,cousinof
+697,rickard stark,bran stark,grandfather_of
+698,hoster tully,bran stark,grandfather_of
+699,benjen stark,bran stark,uncle_of
+700,brandon stark,bran stark,uncle_of
+701,lyanna stark,bran stark,aunt_of
+702,edmure tully,bran stark,uncle_of
+703,lysa arryn,bran stark,aunt_of
+704,bran stark,jon snow,cousinof
+705,bran stark,robin arryn,cousinof
+706,hoster tully,sansa stark,grandfather_of
+707,rickard stark,sansa stark,grandfather_of
+708,edmure tully,sansa stark,uncle_of
+709,lysa arryn,sansa stark,aunt_of
+710,benjen stark,sansa stark,uncle_of
+711,brandon stark,sansa stark,uncle_of
+712,lyanna stark,sansa stark,aunt_of
+713,sansa stark,robin arryn,cousinof
+714,sansa stark,jon snow,cousinof
+715,elia martell,trystane martell,aunt_of
+716,oberyn martell,trystane martell,uncle_of
+717,trystane martell,aegon targaryen,cousinof
+718,trystane martell,rhaenys targaryen,cousinof
+719,trystane martell,nymeria sand,cousinof
+720,trystane martell,obara sand,cousinof
+721,trystane martell,tyene sand,cousinof
+722,rickard stark,arya stark,grandfather_of
+723,hoster tully,arya stark,grandfather_of
+724,benjen stark,arya stark,uncle_of
+725,brandon stark,arya stark,uncle_of
+726,lyanna stark,arya stark,aunt_of
+727,edmure tully,arya stark,uncle_of
+728,lysa arryn,arya stark,aunt_of
+729,arya stark,jon snow,cousinof
+730,arya stark,robin arryn,cousinof
+731,hoster tully,robin arryn,grandfather_of
+732,catelyn stark,robin arryn,aunt_of
+733,edmure tully,robin arryn,uncle_of
+734,catelyn tully,robin arryn,aunt_of
+735,robin arryn,arya stark,cousinof
+736,robin arryn,bran stark,cousinof
+737,robin arryn,robb stark,cousinof
+738,robin arryn,sansa stark,cousinof
+739,robin arryn,rickon stark,cousinof
+740,hoster tully,robb stark,grandfather_of
+741,rickard stark,robb stark,grandfather_of
+742,edmure tully,robb stark,uncle_of
+743,lysa arryn,robb stark,aunt_of
+744,benjen stark,robb stark,uncle_of
+745,brandon stark,robb stark,uncle_of
+746,lyanna stark,robb stark,aunt_of
+747,robb stark,robin arryn,cousinof
+748,robb stark,jon snow,cousinof
+749,kevan lannister,jaime lannister,uncle_of
+750,jaime lannister,lancel lannister,cousinof
+751,jaime lannister,martyn lannister,cousinof
+752,jaime lannister,willem lannister,cousinof
+753,doran martell,nymeria sand,uncle_of
+754,elia martell,nymeria sand,aunt_of
+755,nymeria sand,trystane martell,cousinof
+756,nymeria sand,aegon targaryen,cousinof
+757,nymeria sand,rhaenys targaryen,cousinof
+758,rhaella targaryen,rhaegar targaryen,aunt_of
+759,aerys ii targaryen,rhaegar targaryen,uncle_of
+760,rhaegar targaryen,daenerys targaryen,cousinof
+761,rhaegar targaryen,rhaegar targaryen,cousinof
+762,rhaegar targaryen,viserys targaryen,cousinof
+763,olenna tyrell,margaery tyrell,grandmother_of
+764,brynden tully,lysa arryn,uncle_of
+765,aerys ii targaryen,rhaego,grandfather_of
+766,rhaella targaryen,rhaego,grandmother_of
+767,rhaegar targaryen,rhaego,uncle_of
+768,viserys targaryen,rhaego,uncle_of
+769,rhaego,aegon targaryen,cousinof
+770,rhaego,jon snow,cousinof
+771,rhaego,rhaenys targaryen,cousinof
+772,tywin lannister,joffrey baratheon,grandfather_of
+773,jaime lannister,joffrey baratheon,uncle_of
+774,tyrion lannister,joffrey baratheon,uncle_of
+775,cersei lannister,joffrey baratheon,aunt_of
+776,renly baratheon,joffrey baratheon,uncle_of
+777,stannis baratheon,joffrey baratheon,uncle_of
+778,joffrey baratheon,joffrey baratheon,cousinof
+779,joffrey baratheon,myrcella baratheon,cousinof
+780,joffrey baratheon,tommen baratheon,cousinof
+781,joffrey baratheon,shireen baratheon,cousinof
+782,kevan lannister,tyrion lannister,uncle_of
+783,tyrion lannister,lancel lannister,cousinof
+784,tyrion lannister,martyn lannister,cousinof
+785,tyrion lannister,willem lannister,cousinof
+786,aerys ii targaryen,rhaenys targaryen,grandfather_of
+787,rhaella targaryen,rhaenys targaryen,grandmother_of
+788,doran martell,rhaenys targaryen,uncle_of
+789,oberyn martell,rhaenys targaryen,uncle_of
+790,daenerys targaryen,rhaenys targaryen,aunt_of
+791,viserys targaryen,rhaenys targaryen,uncle_of
+792,rhaenys targaryen,trystane martell,cousinof
+793,rhaenys targaryen,nymeria sand,cousinof
+794,rhaenys targaryen,obara sand,cousinof
+795,rhaenys targaryen,tyene sand,cousinof
+796,rhaenys targaryen,rhaego,cousinof
+797,melessa tarly,baby sam,grandmother_of
+798,randyll tarly,baby sam,grandfather_of
+799,craster,baby sam,grandfather_of
+800,dickon tarly,baby sam,uncle_of
+801,talla tarly,baby sam,aunt_of
+802,tywin lannister,willem lannister,uncle_of
+803,willem lannister,cersei lannister,cousinof
+804,willem lannister,jaime lannister,cousinof
+805,willem lannister,tyrion lannister,cousinof
+806,rickard karstark,alys karstark,grandfather_of
+807,hoster tully,rickon stark,grandfather_of
+808,rickard stark,rickon stark,grandfather_of
+809,edmure tully,rickon stark,uncle_of
+810,lysa arryn,rickon stark,aunt_of
+811,benjen stark,rickon stark,uncle_of
+812,brandon stark,rickon stark,uncle_of
+813,lyanna stark,rickon stark,aunt_of
+814,rickon stark,robin arryn,cousinof
+815,rickon stark,jon snow,cousinof
+816,brynden tully,catelyn stark,uncle_of
+817,tywin lannister,lancel lannister,uncle_of
+818,lancel lannister,cersei lannister,cousinof
+819,lancel lannister,jaime lannister,cousinof
+820,lancel lannister,tyrion lannister,cousinof
+821,renly baratheon,shireen baratheon,uncle_of
+822,robert baratheon,shireen baratheon,uncle_of
+823,shireen baratheon,gendry,cousinof
+824,shireen baratheon,joffrey baratheon,cousinof
+825,shireen baratheon,myrcella baratheon,cousinof
+826,shireen baratheon,tommen baratheon,cousinof
+827,doran martell,obara sand,uncle_of
+828,elia martell,obara sand,aunt_of
+829,obara sand,trystane martell,cousinof
+830,obara sand,aegon targaryen,cousinof
+831,obara sand,rhaenys targaryen,cousinof
+832,kevan lannister,cersei lannister,uncle_of
+833,cersei lannister,lancel lannister,cousinof
+834,cersei lannister,martyn lannister,cousinof
+835,cersei lannister,willem lannister,cousinof
+836,tywin lannister,myrcella baratheon,grandfather_of
+837,jaime lannister,myrcella baratheon,uncle_of
+838,tyrion lannister,myrcella baratheon,uncle_of
+839,cersei lannister,myrcella baratheon,aunt_of
+840,renly baratheon,myrcella baratheon,uncle_of
+841,stannis baratheon,myrcella baratheon,uncle_of
+842,myrcella baratheon,joffrey baratheon,cousinof
+843,myrcella baratheon,myrcella baratheon,cousinof
+844,myrcella baratheon,tommen baratheon,cousinof
+845,myrcella baratheon,shireen baratheon,cousinof
+846,aeron greyjoy,yara greyjoy,uncle_of
+847,euron greyjoy,yara greyjoy,uncle_of
+848,renly baratheon,gendry,uncle_of
+849,stannis baratheon,gendry,uncle_of
+850,gendry,shireen baratheon,cousinof
+851,aeron greyjoy,theon greyjoy,uncle_of
+852,euron greyjoy,theon greyjoy,uncle_of
+853,aerys ii targaryen,jon snow,grandfather_of
+854,rhaella targaryen,jon snow,grandmother_of
+855,rickard stark,jon snow,grandfather_of
+856,daenerys targaryen,jon snow,aunt_of
+857,viserys targaryen,jon snow,uncle_of
+858,benjen stark,jon snow,uncle_of
+859,brandon stark,jon snow,uncle_of
+860,eddard stark,jon snow,uncle_of
+861,jon snow,rhaego,cousinof
+862,jon snow,arya stark,cousinof
+863,jon snow,bran stark,cousinof
+864,jon snow,robb stark,cousinof
+865,jon snow,sansa stark,cousinof
+866,jon snow,rickon stark,cousinof
+867,tywin lannister,tommen baratheon,grandfather_of
+868,jaime lannister,tommen baratheon,uncle_of
+869,tyrion lannister,tommen baratheon,uncle_of
+870,cersei lannister,tommen baratheon,aunt_of
+871,renly baratheon,tommen baratheon,uncle_of
+872,stannis baratheon,tommen baratheon,uncle_of
+873,tommen baratheon,joffrey baratheon,cousinof
+874,tommen baratheon,myrcella baratheon,cousinof
+875,tommen baratheon,tommen baratheon,cousinof
+876,tommen baratheon,shireen baratheon,cousinof
+877,rhaella targaryen,daenerys targaryen,aunt_of
+878,aerys ii targaryen,daenerys targaryen,uncle_of
+879,daenerys targaryen,daenerys targaryen,cousinof
+880,daenerys targaryen,rhaegar targaryen,cousinof
+881,daenerys targaryen,viserys targaryen,cousinof
+882,aerys ii targaryen,aegon targaryen,grandfather_of
+883,rhaella targaryen,aegon targaryen,grandmother_of
+884,doran martell,aegon targaryen,uncle_of
+885,oberyn martell,aegon targaryen,uncle_of
+886,daenerys targaryen,aegon targaryen,aunt_of
+887,viserys targaryen,aegon targaryen,uncle_of
+888,aegon targaryen,trystane martell,cousinof
+889,aegon targaryen,nymeria sand,cousinof
+890,aegon targaryen,obara sand,cousinof
+891,aegon targaryen,tyene sand,cousinof
+892,aegon targaryen,rhaego,cousinof
+893,olenna tyrell,loras tyrell,grandmother_of
+894,doran martell,tyene sand,uncle_of
+895,elia martell,tyene sand,aunt_of
+896,tyene sand,trystane martell,cousinof
+897,tyene sand,aegon targaryen,cousinof
+898,tyene sand,rhaenys targaryen,cousinof
+899,cersei lannister,martyn lannister,cousinof
+900,jaime lannister,martyn lannister,cousinof
+901,tyrion lannister,martyn lannister,cousinof
+902,daenerys targaryen,viserys targaryen,cousinof
+903,rhaegar targaryen,viserys targaryen,cousinof
+904,viserys targaryen,viserys targaryen,cousinof
+905,jon snow,bran stark,cousinof
+906,robin arryn,bran stark,cousinof
+907,robin arryn,sansa stark,cousinof
+908,jon snow,sansa stark,cousinof
+909,aegon targaryen,trystane martell,cousinof
+910,rhaenys targaryen,trystane martell,cousinof
+911,nymeria sand,trystane martell,cousinof
+912,obara sand,trystane martell,cousinof
+913,tyene sand,trystane martell,cousinof
+914,jon snow,arya stark,cousinof
+915,robin arryn,arya stark,cousinof
+916,arya stark,robin arryn,cousinof
+917,bran stark,robin arryn,cousinof
+918,robb stark,robin arryn,cousinof
+919,sansa stark,robin arryn,cousinof
+920,rickon stark,robin arryn,cousinof
+921,robin arryn,robb stark,cousinof
+922,jon snow,robb stark,cousinof
+923,lancel lannister,jaime lannister,cousinof
+924,martyn lannister,jaime lannister,cousinof
+925,willem lannister,jaime lannister,cousinof
+926,trystane martell,nymeria sand,cousinof
+927,aegon targaryen,nymeria sand,cousinof
+928,rhaenys targaryen,nymeria sand,cousinof
+929,daenerys targaryen,rhaegar targaryen,cousinof
+930,rhaegar targaryen,rhaegar targaryen,cousinof
+931,viserys targaryen,rhaegar targaryen,cousinof
+932,aegon targaryen,rhaego,cousinof
+933,jon snow,rhaego,cousinof
+934,rhaenys targaryen,rhaego,cousinof
+935,joffrey baratheon,joffrey baratheon,cousinof
+936,myrcella baratheon,joffrey baratheon,cousinof
+937,tommen baratheon,joffrey baratheon,cousinof
+938,shireen baratheon,joffrey baratheon,cousinof
+939,lancel lannister,tyrion lannister,cousinof
+940,martyn lannister,tyrion lannister,cousinof
+941,willem lannister,tyrion lannister,cousinof
+942,trystane martell,rhaenys targaryen,cousinof
+943,nymeria sand,rhaenys targaryen,cousinof
+944,obara sand,rhaenys targaryen,cousinof
+945,tyene sand,rhaenys targaryen,cousinof
+946,rhaego,rhaenys targaryen,cousinof
+947,cersei lannister,willem lannister,cousinof
+948,jaime lannister,willem lannister,cousinof
+949,tyrion lannister,willem lannister,cousinof
+950,robin arryn,rickon stark,cousinof
+951,jon snow,rickon stark,cousinof
+952,cersei lannister,lancel lannister,cousinof
+953,jaime lannister,lancel lannister,cousinof
+954,tyrion lannister,lancel lannister,cousinof
+955,gendry,shireen baratheon,cousinof
+956,joffrey baratheon,shireen baratheon,cousinof
+957,myrcella baratheon,shireen baratheon,cousinof
+958,tommen baratheon,shireen baratheon,cousinof
+959,trystane martell,obara sand,cousinof
+960,aegon targaryen,obara sand,cousinof
+961,rhaenys targaryen,obara sand,cousinof
+962,lancel lannister,cersei lannister,cousinof
+963,martyn lannister,cersei lannister,cousinof
+964,willem lannister,cersei lannister,cousinof
+965,joffrey baratheon,myrcella baratheon,cousinof
+966,myrcella baratheon,myrcella baratheon,cousinof
+967,tommen baratheon,myrcella baratheon,cousinof
+968,shireen baratheon,myrcella baratheon,cousinof
+969,shireen baratheon,gendry,cousinof
+970,rhaego,jon snow,cousinof
+971,arya stark,jon snow,cousinof
+972,bran stark,jon snow,cousinof
+973,robb stark,jon snow,cousinof
+974,sansa stark,jon snow,cousinof
+975,rickon stark,jon snow,cousinof
+976,joffrey baratheon,tommen baratheon,cousinof
+977,myrcella baratheon,tommen baratheon,cousinof
+978,tommen baratheon,tommen baratheon,cousinof
+979,shireen baratheon,tommen baratheon,cousinof
+980,daenerys targaryen,daenerys targaryen,cousinof
+981,rhaegar targaryen,daenerys targaryen,cousinof
+982,viserys targaryen,daenerys targaryen,cousinof
+983,trystane martell,aegon targaryen,cousinof
+984,nymeria sand,aegon targaryen,cousinof
+985,obara sand,aegon targaryen,cousinof
+986,tyene sand,aegon targaryen,cousinof
+987,rhaego,aegon targaryen,cousinof
+988,trystane martell,tyene sand,cousinof
+989,aegon targaryen,tyene sand,cousinof
+990,rhaenys targaryen,tyene sand,cousinof
+991,rhaella targaryen,aerys ii targaryen,wife_of
+992,lollys stokeworth,bronn,wife_of
+993,eddard stark,catelyn stark,husband_of
+994,brandon stark,catelyn stark,husband_of
+995,robert baratheon,cersei lannister,husband_of
+996,khal drogo,daenerys targaryen,husband_of
+997,catelyn stark,eddard stark,wife_of
+998,roslin frey,edmure tully,wife_of
+999,oberyn martell,ellaria sand,husband_of
+1000,rhaegar targaryen,elia martell,husband_of
+1001,samwell tarly,gilly,husband_of
+1002,sansa stark,joffrey baratheon,wife_of
+1003,margaery tyrell,joffrey baratheon,wife_of
+1004,ygritte,jon snow,wife_of
+1005,walder frey,joyeuse erenford,husband_of
+1006,daenerys targaryen,khal drogo,wife_of
+1007,walder frey,kitty frey,husband_of
+1008,bronn,lollys stokeworth,husband_of
+1009,robert baratheon,lyanna stark,husband_of
+1010,rhaegar targaryen,lyanna stark,husband_of
+1011,petyr baelish,lysa arryn,husband_of
+1012,renly baratheon,margaery tyrell,husband_of
+1013,joffrey baratheon,margaery tyrell,husband_of
+1014,tommen baratheon,margaery tyrell,husband_of
+1015,randyll tarly,melessa tarly,husband_of
+1016,trystane martell,myrcella baratheon,husband_of
+1017,ellaria sand,oberyn martell,wife_of
+1018,lysa arryn,petyr baelish,wife_of
+1019,sansa stark,ramsay snow,wife_of
+1020,melessa tarly,randyll tarly,wife_of
+1021,margaery tyrell,renly baratheon,wife_of
+1022,elia martell,rhaegar targaryen,wife_of
+1023,lyanna stark,rhaegar targaryen,wife_of
+1024,aerys ii targaryen,rhaella targaryen,husband_of
+1025,roslin frey,robb stark,wife_of
+1026,talisa maegyr,robb stark,wife_of
+1027,lyanna stark,robert baratheon,wife_of
+1028,cersei lannister,robert baratheon,wife_of
+1029,walda bolton,roose bolton,wife_of
+1030,robb stark,roslin frey,husband_of
+1031,edmure tully,roslin frey,husband_of
+1032,gilly,samwell tarly,wife_of
+1033,joffrey baratheon,sansa stark,husband_of
+1034,tyrion lannister,sansa stark,husband_of
+1035,ramsay snow,sansa stark,husband_of
+1036,stannis baratheon,selyse baratheon,husband_of
+1037,selyse baratheon,stannis baratheon,wife_of
+1038,robb stark,talisa maegyr,husband_of
+1039,margaery tyrell,tommen baratheon,wife_of
+1040,myrcella baratheon,trystane martell,wife_of
+1041,sansa stark,tyrion lannister,wife_of
+1042,roose bolton,walda bolton,husband_of
+1043,joyeuse erenford,walder frey,wife_of
+1044,kitty frey,walder frey,wife_of
+1045,jon snow,ygritte,husband_of
+3,aegon targaryen,elia martell,son_of
+4,aegon targaryen,rhaegar targaryen,son_of
+10,daenerys targaryen,aerys ii targaryen,daughter_of
+11,rhaegar targaryen,aerys ii targaryen,son_of
+12,viserys targaryen,aerys ii targaryen,son_of
+21,alys karstark,harald karstark,daughter_of
+44,arya stark,eddard stark,daughter_of
+45,arya stark,catelyn stark,daughter_of
+46,baby sam,samwell tarly,son_of
+47,baby sam,gilly,son_of
+51,yara greyjoy,balon greyjoy,daughter_of
+52,theon greyjoy,balon greyjoy,son_of
+59,benjen stark,rickard stark,son_of
+63,black walder rivers,walder frey,son_of
+69,brandon stark,rickard stark,son_of
+75,bran stark,eddard stark,son_of
+76,bran stark,catelyn stark,son_of
+93,robb stark,catelyn stark,son_of
+94,sansa stark,catelyn stark,daughter_of
+95,rickon stark,catelyn stark,son_of
+97,catelyn stark,hoster tully,daughter_of
+102,joffrey baratheon,cersei lannister,son_of
+103,myrcella baratheon,cersei lannister,daughter_of
+104,tommen baratheon,cersei lannister,son_of
+112,cersei lannister,tywin lannister,daughter_of
+126,rhaego,daenerys targaryen,son_of
+140,daenerys targaryen,rhaella targaryen,daughter_of
+144,matthos seaworth,davos seaworth,son_of
+149,dickon tarly,randyll tarly,son_of
+150,dickon tarly,melessa tarly,son_of
+156,trystane martell,doran martell,son_of
+173,robb stark,eddard stark,son_of
+174,sansa stark,eddard stark,daughter_of
+175,rickon stark,eddard stark,son_of
+179,eddard stark,rickard stark,son_of
+184,tyene sand,ellaria sand,daughter_of
+190,rhaenys targaryen,elia martell,daughter_of
+199,gendry,robert baratheon,son_of
+208,gilly,craster,daughter_of
+213,smalljon umber,greatjon umber,son_of
+234,harald karstark,rickard karstark,son_of
+240,jojen reed,howland reed,son_of
+241,meera reed,howland reed,daughter_of
+248,joffrey baratheon,jaime lannister,son_of
+249,myrcella baratheon,jaime lannister,daughter_of
+250,tommen baratheon,jaime lannister,son_of
+254,jaime lannister,tywin lannister,son_of
+260,jorah mormont,jeor mormont,son_of
+268,joffrey baratheon,robert baratheon,son_of
+287,jon snow,rhaegar targaryen,son_of
+288,jon snow,lyanna stark,son_of
+295,johnna,karsi,daughter_of
+296,willa,karsi,daughter_of
+299,lancel lannister,kevan lannister,son_of
+300,martyn lannister,kevan lannister,son_of
+301,willem lannister,kevan lannister,son_of
+303,rhaego,khal drogo,son_of
+326,loras tyrell,mace tyrell,son_of
+328,lothar frey,walder frey,son_of
+334,lyanna stark,rickard stark,daughter_of
+340,lysa arryn,hoster tully,daughter_of
+341,margaery tyrell,mace tyrell,daughter_of
+360,samwell tarly,melessa tarly,son_of
+361,talla tarly,melessa tarly,daughter_of
+374,myrcella baratheon,robert baratheon,daughter_of
+380,nymeria sand,oberyn martell,daughter_of
+382,obara sand,oberyn martell,daughter_of
+386,tyene sand,oberyn martell,daughter_of
+387,mace tyrell,olenna tyrell,son_of
+411,ramsay snow,roose bolton,son_of
+413,samwell tarly,randyll tarly,son_of
+414,talla tarly,randyll tarly,daughter_of
+426,rhaenys targaryen,rhaegar targaryen,daughter_of
+427,rhaegar targaryen,rhaella targaryen,son_of
+430,viserys targaryen,rhaella targaryen,son_of
+455,tommen baratheon,robert baratheon,son_of
+456,robin arryn,jon arryn,son_of
+457,robin arryn,lysa arryn,son_of
+463,roslin frey,walder frey,daughter_of
+464,ryger rivers,walder frey,son_of
+489,shireen baratheon,selyse baratheon,daughter_of
+498,shireen baratheon,stannis baratheon,daughter_of
+532,tyrion lannister,tywin lannister,son_of
+544,waymar royce,yohn royce,son_of
