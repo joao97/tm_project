@@ -38,7 +38,7 @@ class Bot:
             question = input("Write your question:\n\n")
             if question == 'q' or question == 'quit':
                 break
-            parsed = parse_sentences(question,self.nlp)
+            parsed = parse_sentences(question, self.nlp)
             answer= self.answer_question(parsed)
 
             if answer[1] == 'character':
@@ -162,6 +162,7 @@ class Bot:
 
     def extract_relation(self,relation):
         ''' Extract a relation from the dataframe '''
+        print(relation)
         #Get nnps from words
         character = ' '.join([x[0].lower() for x in relation if x[1] == 'NNP'])
         #Get nouns from words
@@ -185,7 +186,7 @@ class Bot:
             result = None
         return result
     
-    def answer_question(self,parsed_questions):
+    def answer_question(self, parsed_questions):
         ''' Answers the question '''
         #It allows multiple questions to be asked at one time
         #For each question
@@ -223,12 +224,16 @@ class Bot:
         except KeyError:
             #Does not exist
             #search similar words
-            similarity_ratios = [[lev.ratio(c,character),c] for c in self.character_dict.keys()]
-            similarity_ratios.sort(reverse = True,key = lambda x:x[0])
+            if len(character.split(' ')) == 1:
+                similarity_ratios = [[lev.ratio(c.split(' ')[0],character),c] for c in self.character_dict.keys()]
+                similarity_ratios.sort(reverse = True,key = lambda x:x[0])
+            else:
+                similarity_ratios = [[lev.ratio(c,character),c] for c in self.character_dict.keys()]
+                similarity_ratios.sort(reverse = True,key = lambda x:x[0])
             
             #Get top 3
             #If the top word is 2 similar assume:
-            if similarity_ratios[0][0] > 0.8:
+            if similarity_ratios[0][0] > 0.8 and similarity_ratios[0][0] != similarity_ratios[1][0] :
                 character = self.character_dict[similarity_ratios[0][1]]
                 self.send_message('I assumed that by ' + self.current_character.title() + ' you ment ' + character.name.title())
             else:
@@ -236,6 +241,8 @@ class Bot:
                 #resolve conflict
                 choice = self.resolve_conflict(np.array(character)[:,1],'similarity')
                 character = self.character_dict[character[choice][1]]
+            
+            self.current_character = character.name
         return character
     
 

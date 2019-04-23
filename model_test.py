@@ -16,7 +16,7 @@ import logging
 logging.getLogger("requests").setLevel(logging.WARNING)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 nlp = StanfordCoreNLP('http://localhost:9000')
-#Steps
+
 #Load Data
 
 def save_obj(obj, name ):
@@ -36,9 +36,6 @@ data.loc[data['type'] == 'cousinof']  = 'cousin_of'
 data = data.drop_duplicates()
 context_info = load_obj('context_dict')
 
-
-
-    
 bot = utils.Bot(data,nicknames,nlp,context_info)
 bot.run()
 
